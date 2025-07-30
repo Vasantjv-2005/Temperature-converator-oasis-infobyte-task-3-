@@ -27,41 +27,8 @@ A modern, interactive temperature conversion web application built with Next.js,
 - **Theme**: next-themes
 - **Animations**: CSS animations with Tailwind
 
-## 📦 Installation
 
-### Prerequisites
 
-- Node.js 18+ 
-- npm, yarn, or pnpm
-
-### Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/temperature-converter.git
-   cd temperature-converter
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   # or
-   pnpm install
-   ```
-
-3. **Run the development server**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   # or
-   pnpm dev
-   ```
-
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 🎯 Usage
 
@@ -154,14 +121,6 @@ npm run lint         # Run ESLint
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Next.js](https://nextjs.org/) - React framework
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [Radix UI](https://www.radix-ui.com/) - Accessible UI components
-- [Lucide React](https://lucide.dev/) - Beautiful icons
-- [next-themes](https://github.com/pacocoursey/next-themes) - Theme management
 
 ## 📞 Support
 
