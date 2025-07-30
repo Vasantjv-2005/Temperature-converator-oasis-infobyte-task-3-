@@ -15,9 +15,7 @@ A modern, interactive temperature conversion web application built with Next.js,
 - **🎯 Absolute Zero Protection**: Prevents invalid temperature inputs
 - **📚 Reference Guide**: Built-in temperature reference points
 
-## 🚀 Live Demo
 
-Experience the application: [Temperature Converter](https://your-demo-link.com)
 
 ## 🛠️ Technology Stack
 
